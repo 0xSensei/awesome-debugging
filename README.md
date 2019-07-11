@@ -1,6 +1,4 @@
-# awesome-debugging
-
-### Introduction - 简介
+## Introduction - 简介
 * 调试（Debugging），是一门学问，一门技术，一不小心掉进深渊无法生还。
 * 话说盘古开天之时，调试界有三种人，他们在.....
   * 推崇者：呵呵，9012年还不会调试，...你先这样...然后那样...Breakpoint/CallStacks/Step/Trace...此处省略一万字...
@@ -10,6 +8,8 @@
   * 整个项目会围绕这三个点进行。
   * 项目也会精选一些工具、书、网站、文章、历史文献，以及各位Contributor的经历和思考。
   * 若是Contributor的原创，会标注:balloon:
+
+## TOC - 目录
 
 <details>
 <summary> :wrench:Debuggers - 调试器</summary>
@@ -78,5 +78,6 @@
 
 </details>
 
-### Contributions
+## Contributors - 贡献者
+* [BlackINT3](BlackINT3)
 * Welcome to PR - 欢迎提交
