@@ -40,11 +40,11 @@
 
 * [lldb](https://lldb.llvm.org/)
   * LLVM项目调试器，Android/iOS/MacOS开发逆向必备，常用于调试Mach-O。
-  * [TODO] 
+  * [lldb和gdb命令对照表](https://lldb.llvm.org/use/map.html) 
 
 * [Go](https://golang.org/)
   * [dlv](https://github.com/go-delve/delve) 全名delve，是为Go语言量身打造的一款调试器。
-  * [TODO]
+  * [gdlv](https://github.com/aarzilli/gdlv) dlv GUI版本，支持Windows/MacOS/Linux
 
 * [Python](https://www.python.org/)
 
