@@ -21,6 +21,7 @@
     * [2-AudioSrv音频服务故障](windbg/dive-into-windbg/2-AudioSrv音频服务故障/2-AudioSrv音频服务故障.md)
     * [3-Explorer无法启动排查](windbg/dive-into-windbg/3-Explorer无法启动排查/3-Explorer无法启动排查.md)
     * [4-Windbg脚本与插件](windbg/dive-into-windbg/4-Windbg脚本与插件/4-Windbg脚本与插件.md)
+  * [x86/x64异常处理流程图](windbg/exception-handling-flow.png):balloon:
   * [VirtualKD](http://sysprogs.com/legacy/virtualkd/) 
     * 用VMware/VirtualBox双机调试加速，创建快照+SSD，速度可以和太阳肩并肩。
   * [LiveKD](https://docs.microsoft.com/en-us/sysinternals/downloads/livekd)
